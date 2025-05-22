@@ -1,4 +1,4 @@
-# UTS PPPL (Pola-Pola Perancangan Perangkat Lunak)
+# UTS PPPL (Prinsip Pengembangan Perangkat Lunak)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Design Patterns](https://img.shields.io/badge/Design_Patterns-Implemented-brightgreen.svg)](https://refactoring.guru/design-patterns)
