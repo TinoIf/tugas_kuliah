@@ -10,15 +10,25 @@ Repositori ini berisi implementasi dari berbagai **Design Pattern** dalam progra
 ## 📂 Struktur Repositori
 
 uts-pppl/
+
 ├── kalkulator/
+
 │   ├── ... (File-file proyek Kalkulator)
+
 │   └── README.md
+
 ├── pemantau_suhu/
+
 │   ├── ... (File-file proyek Pemantau Suhu)
+
 │   └── README.md
+
 ├── todo_list/
+
 │   ├── ... (File-file proyek Todo List)
+
 │   └── README.md
+
 └── README.md                   # README utama repositori ini
 
 
@@ -32,19 +42,19 @@ Repositori ini mencakup tiga proyek utama, masing-masing dengan implementasi Des
 
 * **Design Pattern:** **Strategy Pattern**
 * **Deskripsi:** Program kalkulator CLI yang memungkinkan pemilihan strategi operasi matematika (penjumlahan, pengurangan, perkalian, pembagian) secara dinamis.
-* **Detail Lebih Lanjut:** Untuk penjelasan mendalam mengenai implementasi Strategy Pattern pada kalkulator ini, silakan lihat [README.md di folder `kalkulator`](./kalkulator/README.md).
+* **Detail Lebih Lanjut:** Untuk penjelasan mendalam mengenai implementasi Strategy Pattern pada kalkulator ini, silakan lihat [README.md di folder `kalkulator`](./kalkulator/readme.md).
 
 ### 2. Sistem Pemantau Suhu
 
 * **Design Pattern:** **Observer Pattern**
 * **Deskripsi:** Aplikasi pemantau suhu sederhana yang secara otomatis memperbarui berbagai tampilan (display) saat suhu dari sensor berubah.
-* **Detail Lebih Lanjut:** Untuk penjelasan mendalam mengenai implementasi Observer Pattern pada sistem pemantau suhu ini, silakan lihat [README.md di folder `pemantau_suhu`](./pemantau_suhu/README.md).
+* **Detail Lebih Lanjut:** Untuk penjelasan mendalam mengenai implementasi Observer Pattern pada sistem pemantau suhu ini, silakan lihat [README.md di folder `pemantau_suhu`](./pemantau_suhu/readme.md).
 
 ### 3. Aplikasi Todo List
 
 * **Design Pattern:** **Command Pattern**
 * **Deskripsi:** Aplikasi Todo List berbasis CLI yang mendukung penambahan, penghapusan, penandaan tugas selesai, serta fitur **Undo** dan **Redo** menggunakan Command Pattern.
-* **Detail Lebih Lanjut:** Untuk penjelasan mendalam mengenai implementasi Command Pattern pada aplikasi Todo List ini, silakan lihat [README.md di folder `todo_list`](./todo_list/README.md).
+* **Detail Lebih Lanjut:** Untuk penjelasan mendalam mengenai implementasi Command Pattern pada aplikasi Todo List ini, silakan lihat [README.md di folder `todo_list`](./todo_list/readme.md).
 
 ---
 
