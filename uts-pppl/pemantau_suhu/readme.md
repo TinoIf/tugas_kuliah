@@ -35,13 +35,21 @@ Sistem ini mendemonstrasikan implementasi **Observer Design Pattern** untuk mema
 Struktur folder proyek diorganisir secara modular untuk kejelasan dan pemisahan tanggung jawab.
 temperature_monitor/
 ├── src/
+
 │ ├── interfaces/
+
 │ │ └── observer.py # Antarmuka untuk semua Observer
+
 │ ├── observers/
+
 │ │ ├── current_conditions_display.py # Observer untuk tampilan suhu saat ini
+
 │ │ └── statistics_display.py # Observer untuk tampilan statistik suhu
+
 │ └── subject/
+
 │ └── temperature_sensor.py # Subject yang mengelola suhu dan notifikasi
+
 └── main.py # Program utama untuk demonstrasi
 
 ---
